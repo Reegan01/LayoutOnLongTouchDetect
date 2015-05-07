@@ -37,6 +37,9 @@ public class MainActivity extends ActionBarActivity {
         *  Bro I also want single touch and long touch
         *  Because the single touch is using zoom the image , long press is using set the pin image */
 
+        /* This code is well work */
+
+        /*
         imgLayout.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
@@ -58,7 +61,7 @@ public class MainActivity extends ActionBarActivity {
 
                 return false;
             }
-        });
+        });  */
 
 
         /* Long Touch Listener */
