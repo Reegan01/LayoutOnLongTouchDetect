@@ -64,6 +64,7 @@ public class MainActivity extends ActionBarActivity {
         /* Long Touch Listener */
 
         /* Bro This makes error Please help me */
+        /* We want to do same this about operation in here */
 
         final Handler handler = new Handler();
         Runnable mLongPressed = new Runnable() {
